@@ -1,7 +1,7 @@
 title: @applehat
 description: I once owned applehat.com and let it expire.
 google_analytics: 
-show_downloads: true
+show_downloads: fakse
 theme: jekyll-theme-hacker
 
 gems:
